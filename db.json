@@ -1,0 +1,28 @@
+{
+  [
+    {
+      "Sitename": "reliance",
+      "Assetscount": 5
+    },
+     {
+      "Sitename": "abp",
+      "Assetscount": 15
+    },
+     {
+      "Sitename": "ge",
+      "Assetscount": 9
+    },
+     {
+      "Sitename": "infy",
+      "Assetscount": 17
+    },
+     {
+      "Sitename": "loma",
+      "Assetscount": 13
+    },
+     {
+      "Sitename": "aurum",
+      "Assetscount": 4
+    }     
+  ] 
+}
